@@ -141,6 +141,15 @@ project :
      type : 65538
      report :
       en-GB : UK
+   -
+     name : PAGE_inscription1
+     identifier : 0x48702668002e3372
+     internal_properties : HwAAAB4AAAAGBCYr83A5LmNtNfscJ2FxQ3IMLUA44kY4Uk1wlC0dNJocPyWwvQvHzOS74IQIpBJ2UG8U6+gZrf4Cg7LZxJXJyd+eC065qG5e3S1jCi/mB1PUBLwSRpE=
+     physical_name : .\PAGE_inscription1.wwh
+     type : 65538
+     report :
+      en-GB : UK
+      fr-FR : FR
   other_elements : []
   array_of_analysis :
    -
@@ -208,6 +217,13 @@ project :
       en-GB : detail_evenement
      description :
       en-GB : detail_evenement
+   -
+     name : PAGE_inscription1
+     parameters : []
+     title :
+      en-GB : inscription1
+     description :
+      en-GB : inscription1
    -
      name : PAGE_interface_client
      parameters : []
