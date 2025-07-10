@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<<<<<<< HEAD
 <url><loc>[%_PROJET_WEB_%]/UK/FilterEvenements.awp</loc><lastmod>2025-07-11</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/Home.awp</loc><lastmod>2025-07-11</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/Profil-Client-.awp</loc><lastmod>2025-07-11</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/login1.awp</loc><lastmod>2025-07-11</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/inscription1.awp</loc><lastmod>2025-07-11</lastmod></url>
+=======
+<url><loc>[%_PROJET_WEB_%]/UK/FilterEvenements.awp</loc><lastmod>2025-07-10</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/Home.awp</loc><lastmod>2025-07-10</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/ComptClienet.awp</loc><lastmod>2025-07-10</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/ComptClientclient.awp</loc><lastmod>2025-07-10</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/ComptClient.awp</loc><lastmod>2025-07-10</lastmod></url>
+>>>>>>> 0567d7d (yalah ela barakiti lah nbdaaw mn lowal b tari9a t9lidiya awal commit fiha khas nsrbiw mo7al nsaliw f lwa9t)
 </urlset>
