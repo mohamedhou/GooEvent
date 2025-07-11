@@ -70,3 +70,7 @@ WebDev/
 
 *.ctx
 *.emf
+
+# Ignorer le dossier de sauvegarde de WINDEV
+/Sauvegarde/
+*.tkp
