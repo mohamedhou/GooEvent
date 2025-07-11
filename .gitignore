@@ -18,6 +18,7 @@
 *.ndx
 *.mmo
 
+
 # Fichiers d'analyse (runtime), sémaphores, dictionnaires (runtime)
 *.ANA
 *.ana
@@ -66,5 +67,6 @@ ssh.txt
 # .vscode/
 
 WebDev/
-*.env
-*.cache
+
+*.ctx
+*.emf
