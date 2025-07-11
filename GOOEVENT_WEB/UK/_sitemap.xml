@@ -2,5 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>[%_PROJET_WEB_%]/UK/FilterEvenements.awp</loc><lastmod>2025-07-10</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/Home.awp</loc><lastmod>2025-07-10</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/UK/login1.awp</loc><lastmod>2025-07-10</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/login1.awp</loc><lastmod>2025-07-11</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/inscription1.awp</loc><lastmod>2025-07-11</lastmod></url>
 </urlset>
