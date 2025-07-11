@@ -66,3 +66,5 @@ ssh.txt
 # .vscode/
 
 WebDev/
+*.env
+*.cache
