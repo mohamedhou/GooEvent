@@ -1,0 +1,91 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : PAGE_gerer_Evenement1
+ major_version : 30
+ minor_version : 0
+ type : 65538
+ description : ""
+ subtype : 8192
+ options : 256
+page :
+ name : PAGE_gerer_Evenement1
+ identifier : 0x2870c38b0f1702d2
+ internal_properties : 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
+ properties :
+  alias : PAGE_GERER_EVENEMENT1
+  background_color : 15791608
+  aaf :
+   - -1
+   - -1
+  html_output_options :
+   - 10891
+  page_type : 4
+  page_options :
+   - 192
+ style : {}
+ type : 1
+ languages :
+  - en-GB
+  - fr-FR
+ code_elements :
+  type_code : 38
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaPage()
+     type : 851968
+   -
+     code : |1-
+      
+     type : 852300
+   -
+     type : 852017
+     enabled : false
+   -
+     type : 852119
+     enabled : false
+   -
+     type : 852298
+     role : N
+   -
+     type : 851999
+     role : N
+   -
+     type : 852000
+     role : N
+   -
+     type : 852232
+     enabled : false
+   -
+     type : 852167
+     enabled : false
+   -
+     type : 852169
+     role : N
+     enabled : false
+   -
+     type : 852225
+     role : N
+     enabled : false
+   -
+     type : 852227
+     enabled : false
+   -
+     type : 1310979
+     enabled : false
+   -
+     type : 852228
+     role : N
+     enabled : false
+ code_parameters :
+  internal_properties : HwAAAB4AAAB7MB8NZB5rGUbyk77+IjQnJ74vm430Ar3yq0zmP05sGBBw0ur17uG6ZWry
+  original_name : PAGE_SansNom1
+resources :
+ string_res :
+  identifier : 0x1870c372009ba205
+  internal_properties : HwAAAB4AAAA809Qj/IAi+r8QXyrnW7sarQeYORCUjKBkmMeTFexSj5AuvTfTUpN0Eg==
+webification :
+ internal_properties : HwAAAB4AAACfeXGVtRYGtqBotBXl3fQ8chMRqHuOQ0NXUgOY
+custom_note :
+ internal_properties : HwAAAB4AAAAw1yJwJOWnBFt8iy6Ww8JWR1G08XnjNT9VuwnlXBOxjoNDueSgBJd4Fg==

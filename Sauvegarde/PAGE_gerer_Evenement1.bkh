@@ -1,0 +1,91 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : PAGE_gerer_Evenement1
+ major_version : 30
+ minor_version : 0
+ type : 65538
+ description : ""
+ subtype : 8192
+ options : 256
+page :
+ name : PAGE_gerer_Evenement1
+ identifier : 0x2870c38b0f1702d2
+ internal_properties : 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
+ properties :
+  alias : PAGE_GERER_EVENEMENT1
+  background_color : 13882323
+  aaf :
+   - -1
+   - -1
+  html_output_options :
+   - 10891
+  page_type : 4
+  page_options :
+   - 192
+ style : {}
+ type : 1
+ languages :
+  - en-GB
+  - fr-FR
+ code_elements :
+  type_code : 38
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaPage()
+     type : 851968
+   -
+     code : |1-
+      
+     type : 852300
+   -
+     type : 852017
+     enabled : false
+   -
+     type : 852119
+     enabled : false
+   -
+     type : 852298
+     role : N
+   -
+     type : 851999
+     role : N
+   -
+     type : 852000
+     role : N
+   -
+     type : 852232
+     enabled : false
+   -
+     type : 852167
+     enabled : false
+   -
+     type : 852169
+     role : N
+     enabled : false
+   -
+     type : 852225
+     role : N
+     enabled : false
+   -
+     type : 852227
+     enabled : false
+   -
+     type : 1310979
+     enabled : false
+   -
+     type : 852228
+     role : N
+     enabled : false
+ code_parameters :
+  internal_properties : HwAAAB4AAAB7MB8NZB5rGUbyk77+IjQnJ74vm430Ar3yq0zmP05sGBBw0ur17uG6ZWry
+  original_name : PAGE_SansNom1
+resources :
+ string_res :
+  identifier : 0x1870c372009ba205
+  internal_properties : HwAAAB4AAAA809Qj/IAi+r8QXyrnW7sarQeYORCUjKBkmMeTFexSj5AuvTfTUpN0Eg==
+webification :
+ internal_properties : HwAAAB4AAACfeXGVtRYGtqBotBXl3fQ8chMRqHuOQ0NXUgOY
+custom_note :
+ internal_properties : HwAAAB4AAAAw1yJwJOWnBFt8iy6Ww8JWR1G08XnjNT9VuwnlXBOxjoNDueSgBJd4Fg==

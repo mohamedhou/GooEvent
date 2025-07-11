@@ -164,6 +164,15 @@ project :
      report :
       en-GB : UK
       fr-FR : FR
+   -
+     name : PAGE_gerer_Evenement1
+     identifier : 0x4870c38b004a0301
+     internal_properties : HwAAAB4AAAAxB0vb6OWFc8zQBOqxTqh0jhVnUnXZGU/FXXUGAcUhjlGzxsZh5h64yWuNt0PReUkHdRTnTklsJPEDxFHMUXJopihnsp22/wsrFu5CzQwfwrVqPtcHSZ4=
+     physical_name : .\PAGE_gerer_Evenement1.wwh
+     type : 65538
+     report :
+      en-GB : UK
+      fr-FR : FR
   other_elements : []
   array_of_analysis :
    -
@@ -231,6 +240,13 @@ project :
       en-GB : detail_evenement
      description :
       en-GB : detail_evenement
+   -
+     name : PAGE_gerer_Evenement1
+     parameters : []
+     title :
+      fr-FR : gerer_Evenement1
+     description :
+      fr-FR : gerer_Evenement1
    -
      name : PAGE_inscription1
      parameters : []
