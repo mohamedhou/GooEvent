@@ -3,7 +3,7 @@
 # les fichiers de données, temporaires, logs, etc.
 
 # --- Fichiers spécifiques à l'utilisateur Windev ---
-*.cpl/
+*.cpl
 *.wde
 *.wwe
 *.wdu        # Ajouté
