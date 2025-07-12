@@ -6,9 +6,9 @@
 *.cpl
 *.wde
 *.wwe
-*.wdu        # Ajouté
-*.waudit     # Ajouté
-*.wpf        # Ajouté (si généré et non source)
+*.wdu       
+*.waudit     
+*.wpf        (si généré et non source)
 
 # --- Fichiers de base de données HyperFileSQL (ou autre) ---
 *.FIC
@@ -24,7 +24,7 @@
 *.ana
 *.SEM
 *.sem
-*.WDK        # Corrigé (sans espace)
+*.WDK        
 *.wdk
 *.WDO
 *.wdo
@@ -43,8 +43,8 @@ Bin/
 *.bak
 *.tmp
 *.wbk
-*.bkh        # Ajouté
-*.tkh        # Ajouté
+*.bkh        
+*.tkh       
 #WebDev/Backup/ # Optionnel: ignorer tout le dossier backup
 
 # --- Fichiers générés par l'OS ---
@@ -80,10 +80,12 @@ WebDev/
 *.wda.cache
 *.wwh.cache
 
+
+# Configuration personnelle WebDev (selon poste)
+*.wdu
+
 # Repertoires de publication (selon config)
 */UK/
 */FR/
 */US/
 
-# Configuration personnelle WebDev (selon poste)
-*.wdu
