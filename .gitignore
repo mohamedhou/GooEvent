@@ -74,3 +74,16 @@ WebDev/
 # Ignorer le dossier de sauvegarde de WINDEV
 /Sauvegarde/
 *.tkp
+
+
+*.wdp.cache
+*.wda.cache
+*.wwh.cache
+
+# Repertoires de publication (selon config)
+*/UK/
+*/FR/
+*/US/
+
+# Configuration personnelle WebDev (selon poste)
+*.wdu
