@@ -1,0 +1,37 @@
+svant pull
+ rebase mriiida `
+
+okkk 
+
+# Conflicts:
+#	GOOEVENT_WEB/UK/DetailEvenement1.awp
+#	GOOEVENT_WEB/UK/FiltrerEvenement1.awp
+#	GOOEVENT_WEB/UK/Profil-Client-.awp
+#	GOOEVENT_WEB/UK/_sitemap.xml
+#	GOOEVENT_WEB/UK/gerer-Evenement1.awp
+#	GOOEVENT_WEB/UK/index.awp
+#	GOOEVENT_WEB/UK/inscription1.awp
+#	GOOEVENT_WEB/UK/login1.awp
+#	GOOEVENT_WEB/index.awp
+#	GOOEvent.wdd
+#	GOOEvent.xdd
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto a346d46
+# Last command done (1 command done):
+#    pick 52defe7 svant pull  rebase mriiida `
+# Next commands to do (5 remaining commands):
+#    pick 7fc023d rebase ba9a mrida  Please enter the commit message for your changes. Lines starting
+#    pick 69cc642 commit de sychroniser la base de  donnees
+# You are currently rebasing branch 'develop' on 'a346d46'.
+#
+# Changes to be committed:
+#	modified:   GOOEVENT_WEB/UK/_sitemap.xml
+#	modified:   GOOEvent.ctx
+#	modified:   GOOEvent.env
+#	modified:   GOOEvent.xdd
+#	modified:   GOOEvent_1.wdd
+#	modified:   GOOEvent_1.xdd
+#
