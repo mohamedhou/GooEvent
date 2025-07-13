@@ -64,7 +64,7 @@ page :
         p_codes :
          -
            type : 851998
-           role : N
+           role : B
          -
            internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
            type : 851984
@@ -75,7 +75,7 @@ page :
            code : |1-
             
            type : 852149
-           role : N
+           role : B
     type : 39
     code_elements :
      type_code : 60
@@ -83,10 +83,10 @@ page :
      p_codes :
       -
         type : 851998
-        role : N
+        role : B
       -
         type : 852005
-        role : N
+        role : B
       -
         type : 852227
         enabled : false
@@ -95,7 +95,7 @@ page :
         enabled : false
       -
         type : 852228
-        role : N
+        role : B
         enabled : false
   -
     name : CELL_SansNom2
@@ -165,27 +165,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_Texte
@@ -210,10 +210,10 @@ page :
         p_codes :
          -
            type : 851998
-           role : N
+           role : B
          -
            type : 852005
-           role : N
+           role : B
          -
            internal_properties : HwAAAB4AAABaQrZe8MhFgXFGRYhPdjeSd6v5nH/wLdBz6FRxWcdQUsKBh71xCe57qW/mfqJ6hB7C6yYQROs+3CqF0zH5mrB2uvQqQibKQn6kekmUv7olaTyVgJEGs1iqxA1MmMjt
            type : 852227
@@ -222,7 +222,7 @@ page :
            enabled : false
          -
            type : 852228
-           role : N
+           role : B
      -
        name : SAI_Prenom
        identifier : 0x28702b501ca65ebc
@@ -252,27 +252,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_Texte1
@@ -321,27 +321,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_Telephone
@@ -390,32 +390,32 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_EMail
        identifier : 0x28702c361d62de9b
-       internal_properties : HwAAAB4AAABUdFQYHxEQ3JafbxisKjPagG6FQ8jsyCKN7tgZmTjsewmhsg8RSgigq8N53vbcQlXvOUBYKj+4AXnqloLfsWeP40V9qJQqJ6ChqMTpe6BesRnZuo5CiScZNG6u9ybg4KLiKfk3WT3bdQCFmJlhGwLzMqK5/yXP66tEEfyW+UMWHhyK7tT4HMvJVw6/RfZO+JMlhf51RZFUD97OZdJbmjcIUv9c6nsJUyZMO7KogbX/8SIVV6dSu8ELuI+sKF21r9W9e5am0VBEbDBrVAN6qFnC6DmJDnF0XAYb4DoJbvOI+7R64f5VEuXWotG8D1Dm1ByzalldvUBaXdc3HEn+W47jtnIh7w4Iv3OqchZSwxfVT3fLf9gFEgIWgnoj6ntpS2FCYFiZeuG5zB0e4QZ1pg3TWH7G5Hbz2ALlemp5DkLlgz3VRqemfwnR0+ZB0P/JZUzs8+H+/6LC2ESvj3rnGy1Ic/uC03aPkKVh00LGK8T4ucEWLRmoHqzWSRhQoNVk0z9Gl4i7ljD+bguilGY6UiSdU7zb/e1rcLV3iCE3DgiB/OPX1L/ZAgQOsDPphtp7FV3g9GtvkrrK3Kp34O/A5t2x5yJrtyai5z425mWW08HlL/UTVVr3X8O2rBXBh40ur/TEg2dEjkeH7c3CVSCPbJrenggVTk++T5g8CJJkSnidIIr6urOxzAsjKh0mNkxJMymsM2Aa/ZW61FhTyRAg/MaRAz1olVxIDj4v9hYvjUhPPqj0ouyxrEcm2xtv5yOj6qnjNrkJ8Es/kOtYCJiBUQLOWCMjD0NSfJkqAvkPGxiliwu81R51AGVB3dfo3sSLYACdb4fwumOs12nNDLrPwgCkBu4dbNu59hWmsc1/uj9Ykz5d/JUxuL34TwKFm72OR2QiDEzyHmVo8ixFr+hhPlzhM5O6gFaMCg/NR3aFinXakSytM/PazfuHgb904tLazSxBjSxm9zc2VxUjFxpKn43Hx80iOhDDnPGx0C3qzvopm4aL7cx4EEFGOIlC29mxiFu3hQH/UqM3xLujkcm/oBbOCRVmGKDFDAfnZoSkVm4i91uKidXgGNjLjy5Uf7nBM8H6M4zozsNz485L21iPp1Fsvj75afQjgRA0OwBxjhr8Ygy8zhclTfm7yJHPByoek9xeIt/RJ+c2EefmaOFIv2f1PPILiQXpIC0/dowEmdE3MocNNfRQA1g5bk5shKkTyDl4iZqYzJBmhOptmWmThYmLOsBkNIlhhbWzHrMl6pAHcSonoWZkK0iKDNuGVyWFUPM6LLnIs/B7ozsjpzKh4GRygIF6TGv8vKvAD/voywwiEn2DRcSztkXU
+       internal_properties : HwAAAB4AAAAbvw/b2FUogqzn22gkvUnUAohnRdTSMiTenib/a9rIZ2ePyn6zSKZDdf1bnUYE8mZ9g+9wCofo4dF7ADyNm7upGTmJxGa4vZ29pPiFGMxAfb0aBqqmTQJrliA2Bwao8lTa8rmnwTyJDIwkBb/4qQ+4g7JBIvtRwQffn6gB28P2eBANBNNkIx/MDt5PIpT/pEGj1QTjKIaBf4QRy17fw5fo5tc2OgtcRjaGaGzxm8vTqC62LbUSCRusHSmx377DaVNT7WdHedZcHUr1jnnMnF9S0dnGSZ0OEpA0VelTA5n9U3JI8PbzXMW9+aDAYCaEnK8rNRLB9nZdExdzPLACTXef5LRVs/RFTPVAAJ7NP/txlx8Hi8zpri66VoYLjgd955EqtCSV7lUVoHmy+aq5iukbkHJSqEqHPLbxfhK1omYp02XRsssKa33tzyopFIudGSRkPx3KA+4+xAhzh+4Ld1nQe/e+1/JbxLH1DzpqR+gEqdk6iX1cUlhaZUxAvOkIP8f20wRvOvTCSt+27NqG3kBle/B/ednfPPmTVOkbSmRd3MML2EOl9pg67GeJwr5XMSXooF/7PhYe0CZD0GsUcjGRVyb3Axpu0wrq8lVqX805TzUfwRYri/fCOBl5U7Gq+0zUh5OoGkM7OVHeRWRTuP7e5pzhSu3IUX5KNkxiOJafyjDgBInvrgUpyHuIjNr3BQOCCcqg8zdkul65u67WAsCzwXMqYxqSUHR1PPgV67bhYAaK3DJnNnmEeXnRTWl5HGN5jAunXkXxXtl2Eo4P3/w43qnN5fn8DgeYsDvN2VYHXWkaj8RTQm+3e7XKPOph4trzxYGGmEWGJf/TDvBFuLLO/KRHUmkrgJPEnyctmC1qRazDTsOHesdW7WBngctsye6Isga43EcS0MK7EUa3tAZjUek8ftRu5DXjvfgzOBNsK1JT7UkIh10NP/022KgQP0Z3Q060JdnQxeNxkXAJDHQSpsNPHSXmqWZi9vviSdXqiMHdL5ELXtyN0K+kpayIzkzZtVGzkGK21VaV7UTkznuoP/M0XO/rOs5cZ9+TkwfhIp26HZPPsrB9I2zIou0ajj/VjgU1kzizLYkQJMULHU6DjfjGdH98TLeRhiSj3r6XeTGQEcELm/WbAM8OepDY8fFUJnJeST9H2ij5OWbKGQ9AhcES9K2pIE6vBalyq6J33iLYKZC8x2sEISFte3Acp3QTLab0YOR19xPG5O3fARX3Jy3v6US+2mp+udDEKXFFJxxJNzCmuNM1uKfaA8o6J0biUEGg3r26Lra+NLW4xfOCpO0K2tmuaj22tSjDXjVf6668CIHwcfoL
        properties :
         x : 78
         y : 303
@@ -459,27 +459,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_MotDePasse
@@ -528,27 +528,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_MotDePasse1
@@ -591,7 +591,7 @@ page :
         p_codes :
          -
            type : 851998
-           role : N
+           role : B
          -
            internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
            code : |1+
@@ -644,7 +644,7 @@ page :
            code : |1-
             
            type : 852149
-           role : N
+           role : B
      -
        name : LIB_SansNom2
        identifier : 0x28703a4128a4b9a3
@@ -673,10 +673,10 @@ page :
      p_codes :
       -
         type : 851998
-        role : N
+        role : B
       -
         type : 852005
-        role : N
+        role : B
       -
         type : 852227
         enabled : false
@@ -685,7 +685,7 @@ page :
         enabled : false
       -
         type : 852228
-        role : N
+        role : B
         enabled : false
  type : 1
  languages :
@@ -710,13 +710,13 @@ page :
      enabled : false
    -
      type : 852298
-     role : N
+     role : B
    -
      type : 851999
-     role : N
+     role : B
    -
      type : 852000
-     role : N
+     role : B
    -
      type : 852232
      enabled : false
@@ -725,11 +725,11 @@ page :
      enabled : false
    -
      type : 852169
-     role : N
+     role : B
      enabled : false
    -
      type : 852225
-     role : N
+     role : B
      enabled : false
    -
      type : 852227
@@ -739,7 +739,7 @@ page :
      enabled : false
    -
      type : 852228
-     role : N
+     role : B
      enabled : false
  code_parameters :
   internal_properties : HwAAAB4AAAB7MB8NZB5rGUbyk77+IjQnJ74vm430Ar3yq0zmP05sGBBw0ur17uG6ZWry
