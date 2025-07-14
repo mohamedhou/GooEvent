@@ -1,0 +1,31 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : PROC_Globales_Site
+ major_version : 30
+ minor_version : 0
+ type : 65539
+ description : ""
+ subtype : 0
+ options : 256
+procedure_set :
+ identifier : 0x186d69c8002e098f
+ internal_properties : HwAAAB4AAADjksEavC8JwuEiHc63C+ul0ggS/BOiC8PJfOp/6aEkSKX4qEWcBw==
+ code_elements :
+  type_code : 41
+  p_codes :
+   -
+     type : 983040
+     role : B
+   -
+     type : 983042
+     role : B
+ code_parameters :
+  internal_properties : HwAAAB4AAAB7MB8NZB5rGUbyk77+IjQnJ74vm430Ar3yq0zmP05sGBBw0ur17uG6ZWry
+  original_name : BRO_NoName1
+resources :
+ string_res :
+  identifier : 0x186d69c4002cf914
+  internal_properties : HwAAAB4AAAA809Qj/IAi+r8QXyrnW7sarQeYORCUjKBkmMeTFexSj5AuvTfTUpN0Eg==
+custom_note :
+ internal_properties : HwAAAB4AAADnl3uxgA6ylw4vtqUKEOJQD3VAAOKeNUmhPNojcRFoDpHEcUyYAw==

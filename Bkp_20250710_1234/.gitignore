@@ -1,0 +1,68 @@
+# === Windev Project .gitignore ===
+# Ignorer les fichiers générés par Windev, spécifiques à l'utilisateur,
+# les fichiers de données, temporaires, logs, etc.
+
+# --- Fichiers spécifiques à l'utilisateur Windev ---
+*.cpl/
+*.wde
+*.wwe
+*.wdu        # Ajouté
+*.waudit     # Ajouté
+*.wpf        # Ajouté (si généré et non source)
+
+# --- Fichiers de base de données HyperFileSQL (ou autre) ---
+*.FIC
+*.NDX
+*.MMO
+*.fic
+*.ndx
+*.mmo
+
+# Fichiers d'analyse (runtime), sémaphores, dictionnaires (runtime)
+*.ANA
+*.ana
+*.SEM
+*.sem
+*.WDK        # Corrigé (sans espace)
+*.wdk
+*.WDO
+*.wdo
+*.WDY
+*.wdy
+
+# --- Fichiers compilés / Exécutables ---
+Exe/
+Bin/
+*.wxo
+*.wxl
+
+# --- Fichiers temporaires, logs, backups ---
+*.err
+*.log
+*.bak
+*.tmp
+*.wbk
+*.bkh        # Ajouté
+*.tkh        # Ajouté
+#WebDev/Backup/ # Optionnel: ignorer tout le dossier backup
+
+# --- Fichiers générés par l'OS ---
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# --- Fichiers Sensibles (IMPORTANT) ---
+pass
+pass.txt
+ssh.txt
+# Ajoutez ici tout fichier contenant des mots de passe ou clés
+
+# --- Autres spécifiques (À vérifier) ---
+*.wpc.txt    # Fichier WPC spécifique?
+#*.env        # Décommentez si .env est spécifique à chaque utilisateur
+
+# --- Fichiers IDE/Éditeur (Optionnel) ---
+# .vscode/
+
+WebDev/

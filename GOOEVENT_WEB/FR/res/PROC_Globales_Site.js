@@ -1,0 +1,2 @@
+// Procedures globales du projet
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJ4X3Bjc29mdF9ub21fbG9naXF1ZSI6IlBST0NfR2xvYmFsZXNfU2l0ZSIsInhfcGNzb2Z0X3R5cGVfbG9naXF1ZSI6IjY1NTM5IiwieF9wY3NvZnRfaWRfZW5zZW1ibGUiOiI1MjA5MTY2NTA4MTgxMjY5MjMzIiwibWFwcGluZ3MiOiJBIn0=

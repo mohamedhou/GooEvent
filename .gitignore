@@ -1,76 +1,75 @@
-# === Windev Project .gitignore ===
-# Ignorer les fichiers générés par Windev, spécifiques à l'utilisateur,
-# les fichiers de données, temporaires, logs, etc.
+# === .gitignore pour projet WebDev / WinDev / WinDev Mobile ===
 
-# --- Fichiers spécifiques à l'utilisateur Windev ---
-*.cpl/
-*.wde
-*.wwe
-*.wdu        # Ajouté
-*.waudit     # Ajouté
-*.wpf        # Ajouté (si généré et non source)
+# -- Fichiers utilisateurs & IDE --
+*.cpl
+*.wdu
+*.waudit
+*.wpf
 
-# --- Fichiers de base de données HyperFileSQL (ou autre) ---
-*.FIC
-*.NDX
-*.MMO
+# -- Bases de données HFSQL (jamais versionner) --
 *.fic
 *.ndx
 *.mmo
+*.journal
+*.fic-journal
+*.mmo-journal
+*.ndx-journal
 
-
-# Fichiers d'analyse (runtime), sémaphores, dictionnaires (runtime)
-*.ANA
+# -- Analyse, dictionnaires, runtime --
 *.ana
-*.SEM
 *.sem
-*.WDK        # Corrigé (sans espace)
 *.wdk
-*.WDO
 *.wdo
-*.WDY
 *.wdy
 
-# --- Fichiers compilés / Exécutables ---
-Exe/
-Bin/
+# -- Compilés / exécutables / binaires --
 *.wxo
 *.wxl
+*.wde
+*.wwe
+Bin/
+Exe/
 
-# --- Fichiers temporaires, logs, backups ---
+# -- Pages générées WebDev --
+*.awp
+*.whd
+*.whc
+GOOEVENT_WEB/
+GOOEVENT_MOBILE/
+GOOEVENT_SITE/
+*/UK/
+*/FR/
+*/US/
+
+# -- Cache & fichiers intermédiaires --
+*.ctx
+*.env
+*.emf
+*.wwh.cache
+*.wdp.cache
+*.wda.cache
+
+# -- Logs / backups / fichiers temporaires --
 *.err
 *.log
 *.bak
 *.tmp
 *.wbk
-*.bkh        # Ajouté
-*.tkh        # Ajouté
-#WebDev/Backup/ # Optionnel: ignorer tout le dossier backup
+*.bkh
+*.tkh
+*.tkp
+Sauvegarde/
 
-# --- Fichiers générés par l'OS ---
+# -- OS & fichiers personnels --
 Thumbs.db
 desktop.ini
-$RECYCLE.BIN/
 .DS_Store
+$RECYCLE.BIN/
 
-# --- Fichiers Sensibles (IMPORTANT) ---
+# -- Clés et mots de passe (personnaliser si besoin) --
 pass
 pass.txt
 ssh.txt
-# Ajoutez ici tout fichier contenant des mots de passe ou clés
 
-# --- Autres spécifiques (À vérifier) ---
-*.wpc.txt    # Fichier WPC spécifique?
-#*.env        # Décommentez si .env est spécifique à chaque utilisateur
-
-# --- Fichiers IDE/Éditeur (Optionnel) ---
+# -- Optionnel : dossiers éditeurs --
 # .vscode/
-
-WebDev/
-
-*.ctx
-*.emf
-
-# Ignorer le dossier de sauvegarde de WINDEV
-/Sauvegarde/
-*.tkp
