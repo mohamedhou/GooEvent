@@ -330,9 +330,15 @@ page :
        style : {}
        type : 109
      -
+<<<<<<< HEAD
        name : ZTR_EMail
        identifier : 0x28700ae40273b83f
        internal_properties : HwAAAB4AAABusvPUCbyAagotp3S9HrRx5IMKkVNKNGBz7TX4O0lOh49putn4wgWACemr9qcR7p7g1UCtw2lk9sNI272Z0aYXnhpg3K4wueF6GMKuq/RSiG7Erz3Yn79CKRnOC+Vc72IvK90mGIIwaoebdhauSGKREA964cVHNM/VZ2nnRBDT6L/UE5beLCeI5jUlLtRslSwSIMFCnb46q/x+ALleGHLXhP2t7C2SPGG6Ayp8aXZ689iXc4rRoAJtqXS4L0WEmZ5lfII9emSBfFTl5wjwyjzSy6qDr/xz2hvkL4QyBLmTQPU7+hemChnwF2iacP0q1g/c7TM8wtESTxKCLVdnIKaW63DsqCSb7tZ7894HT9jJT4nUBeF0x3VIcRtRTwbflbYIGGfd55is0kXhvmNw+wKGLeIdk9bQAMlALV0nIqug/wonBXtMkHj+65wX5/Rd2flNY2oK3i/hDEifFDQAlNvivklzWas8qxMqF0nvAxEUqguR6GMemymwZyvz9CtZQw+H5Mn8/3k2VZEOB2J75oTscjDZV/Zzf6VRSpaLVQrH3/HibAtgBJz2SYU6BIFq+KvDlUYcJPuP/gbh/j9QeAYlopYfAR/P1M5nNY6igABnWrkDkHAfJiVf0Oix1gITyFcgVSXjS1ShNO5wEyv4s+RTqwjJ/6jbh7tj4+q2Rq2Q7msqTqzs72LaPGMID718Px6GSTJgqSbSRmWMcvFiO9FlejkxIBZEYaHZYuAuuDvO4D5vTUQVgQBvsz/OOITyyfgClEAF7BU9saPzcmNFIKqN64NHqYq+QSfs8DwBcw7HqQxEfyz16+2R+p4vYY6fFIWB7R1YTAwTfYhw8ZT0JyAk/4rBEE0zt/gjYnFZj71Heex5M6dljd+dtjbVvO5a/lxcERAw/lJRnMii5gUw42KYwtuHdLQD0OOnnVliliNrXIBymPthxmxRe2PUixAHw706mbbkFhcVckFfwLHZVSmmsynbT0+DDwx7FnpHQRcXd4bLH/A5VlWMo7KzuNONXURtpXCc+ywUVXahgjXmGPE0GQ2kVw/no6qaYhsaZNHtYVnvr3u/YAkFMIzlf5A2MIxVdoDokVR7ekm8QrkZYm9KFu64LkzBe+9j8f99EWbkmN82w7llq/btxgONjeEJf5QmnOmsdWuAlspsW+W1HoWEJwtc+OQ0FXPnRitY8zxcXIHK+uxNIa5wb/9yGBXn2ar2FhEROFRq629Voa3A+c4hJ/cO2NI+QPCvm1X8mucJ8Eykkf4X/CBZNRem9NWXzlnI4lC9ArcIwXPd6vVU7XSlEJ7PHIcflrb0NXQbsqMyD6xhWDCn3LCvtJy66y95N7xjUqF9AqGeoF0qFoqh5+90hxFl1iLBB2SItFeCuYl4qqCkKwx4zzKWXFij0FmQ9p8cQRhxlFHG82COApe0kZJZ1lEQAbvepkjvi7oh72G1Fn5+e6eDptMTv/Ln0Onv9czqXxo8hkSCGtXWO5g86ScKUVAZ2nbObIC+noXTS3tqDUX0Urnd1aLAtkYEEJsaav9Ey38IaSXeap+sIkZqN7ZVMY7VHmAnPv3To3qIsCYJ7tus6sjpWUrcdrApQGZLreAPSGd83D+JQQ+97smmIQOsvmypi6g5NdNNFXMe07HAnHZugWdRgZ/QrzGrB6zZdk2E7j24pguiJ9d5Xj4bVbgK/Fiu4MlKpvh4vmQXCfnfKfyQVyLyFnaQ0R/oX8sBpJF+6KRBLQfOG7Y4Q0wsocNDOGS1/hBpeJxb7SKaJ5voJ6rhN1heIdjAug==
+=======
+       name : LIEN_SansNom1
+       identifier : 0x28700edf04394321
+       internal_properties : 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
+>>>>>>> f3806dea02d1d240c18875a25079557f4b4e639d
        properties :
         x : 70
         y : 148
@@ -438,9 +444,76 @@ page :
        style : {}
        type : 12
        code_elements :
+<<<<<<< HEAD
         type_code : 36
         alias : A14
         p_codes : []
+=======
+        type_code : 4
+        alias : A7
+        p_codes :
+         -
+           code : |1-
+            
+           type : 851980
+         -
+           code : |1-
+            
+           type : 851998
+           role : N
+         -
+           internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
+           code : |1-
+            // Récupération des identifiants
+            sEmail		est une chaîne	= SAI_Email
+            sMotDePasse	est une chaîne	= SAI_MotDePasse
+            
+            // Vérification de base
+            SI sEmail = "" OU sMotDePasse = "" ALORS
+            	Info("Veuillez saisir votre e-mail et votre mot de passe.")
+            	RETOUR // On arrête l'exécution ici
+            FIN
+            
+            // On cherche l'utilisateur dans la base de données avec son email
+            // On utilise le nom correct de la table : "utilisateur"
+            SI HLitRecherche(utililisateur, email, sEmail) = Vrai ALORS
+            	// L'utilisateur a été trouvé. Maintenant on vérifie le mot de passe.
+            
+            	// !! LA CORRECTION IMPORTANTE EST ICI !!
+            	// On crypte le mot de passe saisi et on le compare avec celui de la BDD
+            	// Assurez-vous que le nom de la colonne est bien "motDePasse" dans votre analyse
+            	SI sMotDePasse = utililisateur.hashMotDeePasse ALORS
+            		// Connexion réussie !
+            		Info("Connexion réussie ! Bienvenue " + utililisateur.nom)
+            
+            		// Optionnel : Mémoriser l'utilisateur dans une variable globale ou de session
+            		sEmailUtilisateur		= utililisateur.email
+            		sNomUtilisateur		= utililisateur.nom
+            		sRoleUtilisateur		= utililisateur.role
+            		nIDUtilisateur		= utililisateur.IDUtililisateur
+            
+            		// !! LA CORRECTION DE LOGIQUE EST ICI !!
+            		// On redirige vers la page principale, pas la page d'inscription
+            		PageAffiche(PAGE_FilterEvenements)
+            	SINON
+            		// Le mot de passe est faux
+            		Erreur("Mot de passe incorrect.")
+            	FIN
+            SINON
+            	// Aucun utilisateur n'a été trouvé avec cet email
+            	Erreur("Aucun utilisateur trouvé avec cet e-mail.")
+            FIN
+           type : 851984
+         -
+           type : 1310736
+           enabled : false
+         -
+           code : |1+
+            
+            
+           type : 852149
+           role : N
+>>>>>>> f3806dea02d1d240c18875a25079557f4b4e639d
      -
        name : LIB_SansNom2
        identifier : 0x287514dc25e71e4e
