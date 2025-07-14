@@ -202,7 +202,7 @@ page :
      -
        name : LIEN_SansNom1
        identifier : 0x28700edf04394321
-       internal_properties : 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
+       internal_properties : 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
        properties :
         x : 23
         y : 253
@@ -268,44 +268,41 @@ page :
            role : N
          -
            internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
-           code : |1-
+           code : |1+
             // Récupération des identifiants
             sEmail		est une chaîne	= SAI_Email
             sMotDePasse	est une chaîne	= SAI_MotDePasse
             
-            // Vérification de base
+            // Vérification de base (optionnelle ici car déjà faite côté navigateur)
             SI sEmail = "" OU sMotDePasse = "" ALORS
             	Info("Veuillez saisir votre e-mail et votre mot de passe.")
-            	RETOUR // On arrête l'exécution ici
+            	RETOUR
             FIN
             
-            // On cherche l'utilisateur dans la base de données avec son email
-            // On utilise le nom correct de la table : "utilisateur"
-            SI HLitRecherche(utililisateur, email, sEmail) = Vrai ALORS
-            	// L'utilisateur a été trouvé. Maintenant on vérifie le mot de passe.
+            // Recherche de l'utilisateur
+            SI HLitRecherche(utililisateur, email, sEmail) ALORS
             
-            	// !! LA CORRECTION IMPORTANTE EST ICI !!
-            	// On crypte le mot de passe saisi et on le compare avec celui de la BDD
-            	// Assurez-vous que le nom de la colonne est bien "motDePasse" dans votre analyse
-            	SI sMotDePasse = utililisateur.hashMotDeePasse ALORS
-            		// Connexion réussie !
-            		Info("Connexion réussie ! Bienvenue " + utililisateur.nom)
+            	// Vérification du mot de passe
+            	SI utililisateur.hashMotDeePasse = sMotDePasse ALORS
+            		// Connexion réussie
+            		Info("Bienvenue " + utililisateur.nom)
             
-            		// Optionnel : Mémoriser l'utilisateur dans une variable globale ou de session
-            		sEmailUtilisateur		= utililisateur.email
+            		// Stockage des infos dans des variables globales/session
+            		sEmailUtilisateur	= utililisateur.email
             		sNomUtilisateur		= utililisateur.nom
-            		sRoleUtilisateur		= utililisateur.role
+            		sRoleUtilisateur	= utililisateur.role
             		nIDUtilisateur		= utililisateur.IDUtililisateur
             
-            		// !! LA CORRECTION DE LOGIQUE EST ICI !!
-            		// On redirige vers la page principale, pas la page d'inscription
+            		// Redirection vers la page principale
             		PageAffiche(PAGE_FilterEvenements)
+            
             	SINON
-            		// Le mot de passe est faux
+            		// Mauvais mot de passe
             		Erreur("Mot de passe incorrect.")
             	FIN
+            
             SINON
-            	// Aucun utilisateur n'a été trouvé avec cet email
+            	// Aucun utilisateur trouvé avec cet e-mail
             	Erreur("Aucun utilisateur trouvé avec cet e-mail.")
             FIN
            type : 851984
@@ -479,30 +476,18 @@ page :
      type : 852119
      enabled : false
    -
-     code : |1-
-      
-      //-------------------------------------------------------------
-      // Événement : Clic sur le bouton (Navigateur)
-      // Rôle : Valider que les champs ne sont pas vides.
-      //-------------------------------------------------------------
-      
-      // On s'assure que le message d'erreur précédent est caché.
+     code : |1+
+      // Cacher le message d'erreur si affiché précédemment
       LIB_Erreur.Visible = Faux
       
-      // On vérifie si un des champs est vide.
-      // On utilise "..Valeur" car c'est le code navigateur.
+      // Vérification des champs requis
       SI SAI_Email..Valeur = "" OU SAI_MotDePasse..Valeur = "" ALORS
-      	
-      	// Si un champ est vide, on affiche un message d'erreur.
       	LIB_Erreur..Valeur	= "Veuillez remplir tous les champs."
       	LIB_Erreur.Visible	= Vrai
-      	
-      	// On arrête tout. On n'envoie RIEN au serveur.
-      	RETOUR
+      	RETOUR // Ne pas envoyer au serveur
       FIN
       
-      // Si on arrive ici, ça veut dire que les champs sont remplis.
-      // Le traitement va automatiquement continuer vers le code serveur.
+      // Si tout est OK → appel automatique du code serveur
      type : 852298
      role : N
    -
@@ -517,19 +502,9 @@ page :
    -
      code : |1-
       
-      //-------------------------------------------------------------
-      // Événement : Clic sur le bouton (Serveur)
-      // Rôle : Vérifier les identifiants dans la base de données.
-      //-------------------------------------------------------------
-      
-      // --- 1. Recherche de l'utilisateur ---
-      // On cherche dans la table 'utilisateur' où la colonne 'email'
-      // correspond à la valeur saisie dans le champ SAI_Email.
-      // HAParam() est très important pour la sécurité.
-      HLitRecherche(utililisateur, email, HAParam(SAI_Email))
       
       
-      // --- 2. Vérification du résultat de la recherche ---
+      
       SI HEnDehors(utililisateur) ALORS
       	// SI HEnDehors est Vrai, ça veut dire qu'on n'a rien trouvé.
       	// L'utilisateur avec cet email n'existe pas.
@@ -558,7 +533,7 @@ page :
       
       	// On redirige l'utilisateur vers la page d'accueil.
       	PageAffiche(PAGE_Home)
-      	
+      
       SINON
       
       	// Le mot de passe est incorrect.
