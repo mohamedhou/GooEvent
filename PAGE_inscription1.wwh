@@ -626,12 +626,12 @@ page :
             utililisateur.prenom		= sPrenom
             utililisateur.email		= sEmail
             utililisateur.telephone	= sTelephone
-            utililisateur.hashMotDeePasse	= sMotDePasse
+            utililisateur.motDePasse	= sMotDePasse
             utililisateur.role       = "client"
             
             SI HAjoute(utililisateur) ALORS
             	Info("Inscription réussie !")
-            	PageAffiche(PAGE_login1)
+            	PageAffiche(PAGE_Achat_billets)
             SINON
             	Info("Erreur lors de l'inscription.")
             FIN
