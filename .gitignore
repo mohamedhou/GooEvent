@@ -58,7 +58,7 @@ GOOEVENT_SITE/
 *.bkh
 *.tkh
 *.tkp
-/Sauvegarde/
+Sauvegarde/
 
 # -- OS & fichiers personnels --
 Thumbs.db
