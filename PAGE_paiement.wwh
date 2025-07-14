@@ -46,13 +46,13 @@ page :
      enabled : false
    -
      type : 852298
-     role : N
+     role : B
    -
      type : 851999
-     role : N
+     role : B
    -
      type : 852000
-     role : N
+     role : B
    -
      type : 852232
      enabled : false
@@ -61,11 +61,11 @@ page :
      enabled : false
    -
      type : 852169
-     role : N
+     role : B
      enabled : false
    -
      type : 852225
-     role : N
+     role : B
      enabled : false
    -
      type : 852227
@@ -75,7 +75,7 @@ page :
      enabled : false
    -
      type : 852228
-     role : N
+     role : B
      enabled : false
  code_parameters :
   internal_properties : HwAAAB4AAAB7MB8NZB5rGUbyk77+IjQnJ74vm430Ar3yq0zmP05sGBBw0ur17uG6ZWry
