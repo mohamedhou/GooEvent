@@ -72,27 +72,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : B
+           role : N
          -
            type : 852075
-           role : B
+           role : N
          -
            type : 851983
-           role : B
+           role : N
          -
            type : 852009
-           role : B
+           role : N
          -
            type : 852244
-           role : B
+           role : N
            enabled : false
          -
            type : 852246
-           role : B
+           role : N
            enabled : false
          -
            type : 852245
-           role : B
+           role : N
            enabled : false
      -
        name : ZTR_EMail
@@ -117,10 +117,10 @@ page :
         p_codes :
          -
            type : 851998
-           role : B
+           role : N
          -
            type : 852005
-           role : B
+           role : N
          -
            internal_properties : HwAAAB4AAABaQrZe8MhFgXFGRYhPdjeSd6v5nH/wLdBz6FRxWcdQUsKBh71xCe57qW/mfqJ6hB7C6yYQROs+3CqF0zH5mrB2uvQqQibKQn6kekmUv7olaTyVgJEGs1iqxA1MmMjt
            type : 852227
@@ -129,7 +129,7 @@ page :
            enabled : false
          -
            type : 852228
-           role : B
+           role : N
      -
        name : SAI_MotDePasse
        identifier : 0x28700c0d037e3ec2
@@ -160,27 +160,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : B
+           role : N
          -
            type : 852075
-           role : B
+           role : N
          -
            type : 851983
-           role : B
+           role : N
          -
            type : 852009
-           role : B
+           role : N
          -
            type : 852244
-           role : B
+           role : N
            enabled : false
          -
            type : 852246
-           role : B
+           role : N
            enabled : false
          -
            type : 852245
-           role : B
+           role : N
            enabled : false
      -
        name : ZTR_MotDePasse
@@ -202,7 +202,7 @@ page :
      -
        name : LIEN_SansNom1
        identifier : 0x28700edf04394321
-       internal_properties : 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
+       internal_properties : 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
        properties :
         x : 23
         y : 253
@@ -223,7 +223,7 @@ page :
         p_codes :
          -
            type : 851998
-           role : B
+           role : N
          -
            internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
            type : 851984
@@ -234,7 +234,7 @@ page :
            code : |1-
             
            type : 852149
-           role : B
+           role : N
      -
        name : BTN_SansNom1
        identifier : 0x28700f1304670ebe
@@ -265,7 +265,7 @@ page :
            code : |1-
             
            type : 851998
-           role : B
+           role : N
          -
            internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
            code : |1+
@@ -307,7 +307,7 @@ page :
             
             
            type : 852149
-           role : B
+           role : N
      -
        name : LIB_SansNom1
        identifier : 0x28700fa804ab5534
@@ -336,10 +336,10 @@ page :
      p_codes :
       -
         type : 851998
-        role : B
+        role : N
       -
         type : 852005
-        role : B
+        role : N
       -
         type : 852227
         enabled : false
@@ -348,7 +348,7 @@ page :
         enabled : false
       -
         type : 852228
-        role : B
+        role : N
         enabled : false
   -
     name : CELL_SansNom2
@@ -395,7 +395,7 @@ page :
            type : 851980
          -
            type : 851998
-           role : B
+           role : N
          -
            internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
            type : 851984
@@ -404,7 +404,7 @@ page :
            enabled : false
          -
            type : 852149
-           role : B
+           role : N
     type : 39
     code_elements :
      type_code : 60
@@ -412,10 +412,10 @@ page :
      p_codes :
       -
         type : 851998
-        role : B
+        role : N
       -
         type : 852005
-        role : B
+        role : N
       -
         type : 852227
         enabled : false
@@ -424,7 +424,7 @@ page :
         enabled : false
       -
         type : 852228
-        role : B
+        role : N
         enabled : false
   -
     name : LIB_Erreur
@@ -494,13 +494,13 @@ page :
       // Si on arrive ici, ça veut dire que les champs sont remplis.
       // Le traitement va automatiquement continuer vers le code serveur.
      type : 852298
-     role : B
+     role : N
    -
      type : 851999
-     role : B
+     role : N
    -
      type : 852000
-     role : B
+     role : N
    -
      type : 852232
      enabled : false
@@ -562,11 +562,11 @@ page :
      enabled : false
    -
      type : 852169
-     role : B
+     role : N
      enabled : false
    -
      type : 852225
-     role : B
+     role : N
      enabled : false
    -
      type : 852227
@@ -576,7 +576,7 @@ page :
      enabled : false
    -
      type : 852228
-     role : B
+     role : N
      enabled : false
  code_parameters :
   internal_properties : HwAAAB4AAAB7MB8NZB5rGUbyk77+IjQnJ74vm430Ar3yq0zmP05sGBBw0ur17uG6ZWry

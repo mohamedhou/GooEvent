@@ -1,0 +1,70 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : COL_Procedures_AJAX
+ major_version : 30
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+ options : 256
+procedure_set :
+ identifier : 0x186ebece00346de8
+ internal_properties : HwAAAB4AAADjksEavC8JwuEiHc63C+ul0ggS/BOiC8PJfOp/6aEkSKX4qEWcBw==
+ code_elements :
+  type_code : 31
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE PROC_ClientLogin(sLoginJSON est une chaîne)
+      
+      HChangeConnection("*", MyConnection1)
+      hLoginInfo est un objet dynamique = JSONVersVariant(sLoginJSON)
+      
+      SI hLoginInfo = Null OU hLoginInfo.?identifiant = Null OU hLoginInfo.?motdepasse = Null THEN
+      	RENVOYER gCreerReponseJSON(Faux, "Données invalides.")
+      END
+      
+      sIdentifiant		est une chaîne	= hLoginInfo.identifiant
+      sMotDePasse			est une chaîne	= hLoginInfo.motdepasse
+      
+      bUtilisateurTrouve	est un booléen	= Faux
+      
+      // Recherche par email
+      SI HLitRecherche(Client, email, sIdentifiant) = Vrai THEN
+      	bUtilisateurTrouve = Vrai
+      ELSE // Sinon, cherche par téléphone
+      	SI HLitRecherche(Client, telephone, sIdentifiant) = Vrai THEN
+      		bUtilisateurTrouve = Vrai
+      	END
+      END
+      
+      SI bUtilisateurTrouve = Faux THEN
+      	RENVOYER gCreerReponseJSON(Faux, "Identifiant ou mot de passe incorrect.")
+      END
+      
+      // Vérification du mot de passe
+      SI Client.motdepasse <> HashChaîne(HA_SHA_256, sMotDePasse) THEN
+      	RENVOYER gCreerReponseJSON(Faux, "Identifiant ou mot de passe incorrect.")
+      END
+      
+      // Ici, Session DEVRAIT fonctionner car c'est une procédure AJAX exécutable
+      Session.estConnecte	= Vrai
+      Session.IDClient	= Client.IDClient
+      
+      RENVOYER gCreerReponseJSON(Vrai, "Connexion réussie.")
+      FIN
+     type : 720896
+   -
+     code : |1-
+      
+     type : 720898
+ code_parameters :
+  internal_properties : HwAAAB4AAAB7MB8NZB5rGUbyk77+IjQnJ74vm430Ar3yq0zmP05sGBBw0ur17uG6ZWry
+  original_name : SET_NoName1
+resources :
+ string_res :
+  identifier : 0x186ebec800325475
+  internal_properties : HwAAAB4AAAA809Qj/IAi+r8QXyrnW7sarQeYORCUjKBkmMeTFexSj5AuvTfTUpN0Eg==
+custom_note :
+ internal_properties : HwAAAB4AAADnl3uxgA6ylw4vtqUKEOJQD3VAAOKeNUmhPNojcRFoDpHEcUyYAw==
