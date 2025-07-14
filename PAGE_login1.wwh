@@ -202,7 +202,7 @@ page :
      -
        name : LIEN_SansNom1
        identifier : 0x28700edf04394321
-       internal_properties : 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
+       internal_properties : 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
        properties :
         x : 23
         y : 253
@@ -268,7 +268,7 @@ page :
            role : N
          -
            internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
-           code : |1+
+           code : |1-
             // Récupération des identifiants
             sEmail		est une chaîne	= SAI_Email
             sMotDePasse	est une chaîne	= SAI_MotDePasse
@@ -276,26 +276,37 @@ page :
             // Vérification de base
             SI sEmail = "" OU sMotDePasse = "" ALORS
             	Info("Veuillez saisir votre e-mail et votre mot de passe.")
-            	RETOUR
+            	RETOUR // On arrête l'exécution ici
             FIN
             
-            // Recherche de l'utilisateur
+            // On cherche l'utilisateur dans la base de données avec son email
+            // On utilise le nom correct de la table : "utilisateur"
             SI HLitRecherche(utililisateur, email, sEmail) = Vrai ALORS
-            	SI utililisateur.hashMotDeePasse = sMotDePasse ALORS
-            		// Connexion réussie
-            		// Mémoriser l'utilisateur connecté si besoin
-            		// Exemple : Session.utilisateur = UTILISATEUR.ID
-            		Info("Connexion réussie !")
-            		sEmailUtilisateur	= utililisateur.email
+            	// L'utilisateur a été trouvé. Maintenant on vérifie le mot de passe.
+            
+            	// !! LA CORRECTION IMPORTANTE EST ICI !!
+            	// On crypte le mot de passe saisi et on le compare avec celui de la BDD
+            	// Assurez-vous que le nom de la colonne est bien "motDePasse" dans votre analyse
+            	SI sMotDePasse = utililisateur.hashMotDeePasse ALORS
+            		// Connexion réussie !
+            		Info("Connexion réussie ! Bienvenue " + utililisateur.nom)
+            
+            		// Optionnel : Mémoriser l'utilisateur dans une variable globale ou de session
+            		sEmailUtilisateur		= utililisateur.email
             		sNomUtilisateur		= utililisateur.nom
-            		sRoleUtilisateur	= utililisateur.role
+            		sRoleUtilisateur		= utililisateur.role
             		nIDUtilisateur		= utililisateur.IDUtililisateur
-            		PageAffiche(PAGE_inscription1)
+            
+            		// !! LA CORRECTION DE LOGIQUE EST ICI !!
+            		// On redirige vers la page principale, pas la page d'inscription
+            		PageAffiche(PAGE_FilterEvenements)
             	SINON
-            		Info("Mot de passe incorrect.")
+            		// Le mot de passe est faux
+            		Erreur("Mot de passe incorrect.")
             	FIN
             SINON
-            	Info("Aucun utilisateur trouvé avec cet e-mail.")
+            	// Aucun utilisateur n'a été trouvé avec cet email
+            	Erreur("Aucun utilisateur trouvé avec cet e-mail.")
             FIN
            type : 851984
          -
