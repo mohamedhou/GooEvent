@@ -40,6 +40,46 @@ page :
       - -1
       - -1
     style : {}
+<<<<<<< HEAD
+=======
+    controls :
+     -
+       name : BTN_SansNom2
+       identifier : 0x28703b712ce65d81
+       internal_properties : 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
+       properties :
+        x : 1310
+        y : 11
+        width : 120
+        height : 34
+        alias : A18
+        tab_order : 8
+        color : 2960685
+        background_color : 10401993
+        aaf :
+         - -1
+         - -1
+       style : {}
+       type : 4
+       code_elements :
+        type_code : 4
+        alias : A18
+        p_codes :
+         -
+           type : 851998
+           role : B
+         -
+           internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
+           type : 851984
+         -
+           type : 1310736
+           enabled : false
+         -
+           code : |1-
+            
+           type : 852149
+           role : B
+>>>>>>> 40fe9a6 (Ajoute inscription et authentification de l'Organisteur )
     type : 39
     code_elements :
      type_code : 60
@@ -47,10 +87,10 @@ page :
      p_codes :
       -
         type : 851998
-        role : N
+        role : B
       -
         type : 852005
-        role : N
+        role : B
       -
         type : 852227
         enabled : false
@@ -59,7 +99,7 @@ page :
         enabled : false
       -
         type : 852228
-        role : N
+        role : B
         enabled : false
   -
     name : CELL_SansNom2
@@ -129,27 +169,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_Texte
@@ -174,10 +214,10 @@ page :
         p_codes :
          -
            type : 851998
-           role : N
+           role : B
          -
            type : 852005
-           role : N
+           role : B
          -
            internal_properties : HwAAAB4AAABaQrZe8MhFgXFGRYhPdjeSd6v5nH/wLdBz6FRxWcdQUsKBh71xCe57qW/mfqJ6hB7C6yYQROs+3CqF0zH5mrB2uvQqQibKQn6kekmUv7olaTyVgJEGs1iqxA1MmMjt
            type : 852227
@@ -186,7 +226,7 @@ page :
            enabled : false
          -
            type : 852228
-           role : N
+           role : B
      -
        name : SAI_Prenom
        identifier : 0x28702b501ca65ebc
@@ -216,27 +256,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_Texte1
@@ -255,6 +295,24 @@ page :
          - -1
        style : {}
        type : 109
+       code_elements :
+        type_code : 132
+        p_codes :
+         -
+           type : 851998
+           role : B
+         -
+           type : 852005
+           role : B
+         -
+           internal_properties : HwAAAB4AAABaQrZe8MhFgXFGRYhPdjeSd6v5nH/wLdBz6FRxWcdQUsKBh71xCe57qW/mfqJ6hB7C6yYQROs+3CqF0zH5mrB2uvQqQibKQn6kekmUv7olaTyVgJEGs1iqxA1MmMjt
+           type : 852227
+         -
+           type : 1310979
+           enabled : false
+         -
+           type : 852228
+           role : B
      -
        name : SAI_Telephone
        identifier : 0x28702b711cb4de4c
@@ -285,27 +343,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_Telephone
@@ -324,6 +382,24 @@ page :
          - -1
        style : {}
        type : 109
+       code_elements :
+        type_code : 132
+        p_codes :
+         -
+           type : 851998
+           role : B
+         -
+           type : 852005
+           role : B
+         -
+           internal_properties : HwAAAB4AAABaQrZe8MhFgXFGRYhPdjeSd6v5nH/wLdBz6FRxWcdQUsKBh71xCe57qW/mfqJ6hB7C6yYQROs+3CqF0zH5mrB2uvQqQibKQn6kekmUv7olaTyVgJEGs1iqxA1MmMjt
+           type : 852227
+         -
+           type : 1310979
+           enabled : false
+         -
+           type : 852228
+           role : B
      -
        name : SAI_Email
        identifier : 0x28702c301d5ec6fd
@@ -354,27 +430,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_EMail
@@ -393,6 +469,24 @@ page :
          - -1
        style : {}
        type : 109
+       code_elements :
+        type_code : 132
+        p_codes :
+         -
+           type : 851998
+           role : B
+         -
+           type : 852005
+           role : B
+         -
+           internal_properties : HwAAAB4AAABaQrZe8MhFgXFGRYhPdjeSd6v5nH/wLdBz6FRxWcdQUsKBh71xCe57qW/mfqJ6hB7C6yYQROs+3CqF0zH5mrB2uvQqQibKQn6kekmUv7olaTyVgJEGs1iqxA1MmMjt
+           type : 852227
+         -
+           type : 1310979
+           enabled : false
+         -
+           type : 852228
+           role : B
      -
        name : SAI_MotDePasse1
        identifier : 0x28702ca31d6c8b13
@@ -423,27 +517,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_MotDePasse
@@ -462,6 +556,24 @@ page :
          - -1
        style : {}
        type : 109
+       code_elements :
+        type_code : 132
+        p_codes :
+         -
+           type : 851998
+           role : B
+         -
+           type : 852005
+           role : B
+         -
+           internal_properties : HwAAAB4AAABaQrZe8MhFgXFGRYhPdjeSd6v5nH/wLdBz6FRxWcdQUsKBh71xCe57qW/mfqJ6hB7C6yYQROs+3CqF0zH5mrB2uvQqQibKQn6kekmUv7olaTyVgJEGs1iqxA1MmMjt
+           type : 852227
+         -
+           type : 1310979
+           enabled : false
+         -
+           type : 852228
+           role : B
      -
        name : SAI_MotDePasse2
        identifier : 0x28702ced1d7aac13
@@ -492,27 +604,27 @@ page :
            type : 851980
          -
            type : 852010
-           role : N
+           role : B
          -
            type : 852075
-           role : N
+           role : B
          -
            type : 851983
-           role : N
+           role : B
          -
            type : 852009
-           role : N
+           role : B
          -
            type : 852244
-           role : N
+           role : B
            enabled : false
          -
            type : 852246
-           role : N
+           role : B
            enabled : false
          -
            type : 852245
-           role : N
+           role : B
            enabled : false
      -
        name : ZTR_MotDePasse1
@@ -531,6 +643,24 @@ page :
          - -1
        style : {}
        type : 109
+       code_elements :
+        type_code : 132
+        p_codes :
+         -
+           type : 851998
+           role : B
+         -
+           type : 852005
+           role : B
+         -
+           internal_properties : HwAAAB4AAABaQrZe8MhFgXFGRYhPdjeSd6v5nH/wLdBz6FRxWcdQUsKBh71xCe57qW/mfqJ6hB7C6yYQROs+3CqF0zH5mrB2uvQqQibKQn6kekmUv7olaTyVgJEGs1iqxA1MmMjt
+           type : 852227
+         -
+           type : 1310979
+           enabled : false
+         -
+           type : 852228
+           role : B
      -
        name : BTN_SansNom1
        identifier : 0x28702d651d817f0e
@@ -555,7 +685,7 @@ page :
         p_codes :
          -
            type : 851998
-           role : N
+           role : B
          -
            internal_properties : HwAAAB4AAAA4TIApOnZuS1rWiKRMpNx/J76QumUpH0JmxgCqFGA4ibM6r6bX4e4+BA4iwtTAoYdGIH4fpKdLQNNQcnPVqjFV/mE8T7J2Kz5fAwDGk9io7r/nn0FXVqbOnfF5
            code : |1+
@@ -608,7 +738,7 @@ page :
            code : |1-
             
            type : 852149
-           role : N
+           role : B
      -
        name : LIB_SansNom2
        identifier : 0x28703a4128a4b9a3
@@ -696,10 +826,10 @@ page :
      p_codes :
       -
         type : 851998
-        role : N
+        role : B
       -
         type : 852005
-        role : N
+        role : B
       -
         type : 852227
         enabled : false
@@ -708,7 +838,7 @@ page :
         enabled : false
       -
         type : 852228
-        role : N
+        role : B
         enabled : false
  type : 1
  languages :
@@ -733,13 +863,13 @@ page :
      enabled : false
    -
      type : 852298
-     role : N
+     role : B
    -
      type : 851999
-     role : N
+     role : B
    -
      type : 852000
-     role : N
+     role : B
    -
      type : 852232
      enabled : false
@@ -748,11 +878,11 @@ page :
      enabled : false
    -
      type : 852169
-     role : N
+     role : B
      enabled : false
    -
      type : 852225
-     role : N
+     role : B
      enabled : false
    -
      type : 852227
@@ -762,7 +892,7 @@ page :
      enabled : false
    -
      type : 852228
-     role : N
+     role : B
      enabled : false
  code_parameters :
   internal_properties : HwAAAB4AAAB7MB8NZB5rGUbyk77+IjQnJ74vm430Ar3yq0zmP05sGBBw0ur17uG6ZWry
