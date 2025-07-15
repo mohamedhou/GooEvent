@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <url><loc>[%_PROJET_WEB_%]/UK/Profil-Client-.awp</loc><lastmod>2025-07-13</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/login1.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/inscription1.awp</loc><lastmod>2025-07-14</lastmod></url>
@@ -28,7 +29,11 @@
 =======
 =======
 >>>>>>> dca4c97 (commit pour avant de supprime les interface redendante)
+=======
+<url><loc>[%_PROJET_WEB_%]/UK/login-Organisateur.awp</loc><lastmod>2025-07-14</lastmod></url>
+>>>>>>> caac992 (Ajouter l'inscription et l'authentification de l'organisateur)
 <url><loc>[%_PROJET_WEB_%]/UK/Profil-Client-.awp</loc><lastmod>2025-07-14</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/login1.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/inscription1.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/DetailEvenement1.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/Achat-billets.awp</loc><lastmod>2025-07-14</lastmod></url>
