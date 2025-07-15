@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<<<<<<< HEAD
 <url><loc>[%_PROJET_WEB_%]/UK/Profil-Client-.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/inscription1.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/DetailEvenement1.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/Achat-billets.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/index.awp</loc><lastmod>2025-07-15</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/FiltrerEvenement1.awp</loc><lastmod>2025-07-14</lastmod></url>
+=======
+<url><loc>[%_PROJET_WEB_%]/UK/Profil-Client-.awp</loc><lastmod>2025-07-15</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/login1.awp</loc><lastmod>2025-07-15</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/inscription1.awp</loc><lastmod>2025-07-15</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/DetailEvenement1.awp</loc><lastmod>2025-07-15</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/Achat-billets.awp</loc><lastmod>2025-07-14</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/index.awp</loc><lastmod>2025-07-14</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/FiltrerEvenement1.awp</loc><lastmod>2025-07-15</lastmod></url>
+>>>>>>> 9194b72 (pour fair le pull)
 <url><loc>[%_PROJET_WEB_%]/UK/creer-evenements2.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/dashboard-statistic1.awp</loc><lastmod>2025-07-14</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/UK/gerer-Evenement1.awp</loc><lastmod>2025-07-14</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/gerer-Evenement1.awp</loc><lastmod>2025-07-15</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/interface-client1.awp</loc><lastmod>2025-07-14</lastmod></url>
 <url><loc>[%_PROJET_WEB_%]/UK/Form-utililisateur.awp</loc><lastmod>2025-07-14</lastmod></url>
+<<<<<<< HEAD
+=======
+<url><loc>[%_PROJET_WEB_%]/UK/inscriptionOrganisateur-.awp</loc><lastmod>2025-07-15</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/UK/login-Organisateur.awp</loc><lastmod>2025-07-15</lastmod></url>
+>>>>>>> 9194b72 (pour fair le pull)
 </urlset>
