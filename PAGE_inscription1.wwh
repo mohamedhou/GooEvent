@@ -40,8 +40,6 @@ page :
       - -1
       - -1
     style : {}
-<<<<<<< HEAD
-=======
     controls :
      -
        name : BTN_SansNom2
@@ -79,7 +77,6 @@ page :
             
            type : 852149
            role : B
->>>>>>> 40fe9a6 (Ajoute inscription et authentification de l'Organisteur )
     type : 39
     code_elements :
      type_code : 60
