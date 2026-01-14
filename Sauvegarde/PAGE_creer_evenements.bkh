@@ -1,0 +1,91 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : PAGE_creer_evenements
+ major_version : 30
+ minor_version : 0
+ type : 65538
+ description : ""
+ subtype : 8192
+ options : 256
+page :
+ name : PAGE_creer_evenements
+ identifier : 0x287044d204ff9b11
+ internal_properties : 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
+ properties :
+  alias : PAGE_CREER_EVENEMENTS
+  background_color : 13882323
+  aaf :
+   - -1
+   - -1
+  html_output_options :
+   - 10891
+  page_type : 4
+  page_options :
+   - 192
+ style : {}
+ type : 1
+ languages :
+  - en-GB
+  - fr-FR
+ code_elements :
+  type_code : 38
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaPage()
+     type : 851968
+   -
+     code : |1-
+      
+     type : 852300
+   -
+     type : 852017
+     enabled : false
+   -
+     type : 852119
+     enabled : false
+   -
+     type : 852298
+     role : N
+   -
+     type : 851999
+     role : N
+   -
+     type : 852000
+     role : N
+   -
+     type : 852232
+     enabled : false
+   -
+     type : 852167
+     enabled : false
+   -
+     type : 852169
+     role : N
+     enabled : false
+   -
+     type : 852225
+     role : N
+     enabled : false
+   -
+     type : 852227
+     enabled : false
+   -
+     type : 1310979
+     enabled : false
+   -
+     type : 852228
+     role : N
+     enabled : false
+ code_parameters :
+  internal_properties : HwAAAB4AAAB7MB8NZB5rGUbyk77+IjQnJ74vm430Ar3yq0zmP05sGBBw0ur17uG6ZWry
+  original_name : PAGE_SansNom1
+resources :
+ string_res :
+  identifier : 0x187044c600796aab
+  internal_properties : HwAAAB4AAAA809Qj/IAi+r8QXyrnW7sarQeYORCUjKBkmMeTFexSj5AuvTfTUpN0Eg==
+webification :
+ internal_properties : HwAAAB4AAACfeXGVtRYGtqBotBXl3fQ8chMRqHuOQ0NXUgOY
+custom_note :
+ internal_properties : HwAAAB4AAAAw1yJwJOWnBFt8iy6Ww8JWR1G08XnjNT9VuwnlXBOxjoNDueSgBJd4Fg==
